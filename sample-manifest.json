@@ -1,0 +1,12 @@
+{
+  "export_job_id": "4c1b0e0a-f7f9-44ae-a943-c26ab8b3f0a0",
+  "id_short": 915898,
+  "published_at": "2026-04-15T19:27:10Z",
+  "repo_name": "top-40-active-restaurant-review-whales-in-birmingham-al-metro-area-us-sample-915898",
+  "sample_asset_name": "beamstation_915898_restaurants-us-birminghamal_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/915898/beamstation_915898_restaurants-us-birminghamal_SAMPLE_DIST.csv",
+  "sample_records": 22,
+  "sample_sha256": "b5a699d5b2986568128d603eaf1fdbb4da4a7a3f29fc8b2d0ea5a4d2fef688f0",
+  "sample_size_bytes": 100104,
+  "total_records": 176
+}
