@@ -1,0 +1,22 @@
+{
+  "base_price": 995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 40% of their local market for proven foot traffic and review volume within the last 90 days and a market scope of 5km.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
+  "config_name": "Top 40% Active Restaurant Review Whales in Birmingham, AL Metro Area, US",
+  "export_job_id": "4c1b0e0a-f7f9-44ae-a943-c26ab8b3f0a0",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 915898,
+  "location_name": "Birmingham, AL",
+  "location_type": "metro",
+  "repo_name": "top-40-active-restaurant-review-whales-in-birmingham-al-metro-area-us-sample-915898",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/915898/beamstation_915898_restaurants-us-birminghamal_SAMPLE_DIST.csv",
+  "sample_pct": 12.5,
+  "sample_records": 22,
+  "sample_sha256": "b5a699d5b2986568128d603eaf1fdbb4da4a7a3f29fc8b2d0ea5a4d2fef688f0",
+  "sample_size_bytes": 100104,
+  "total_records": 176,
+  "updated_at": "2026-03-31T23:59:29.036520+00:00"
+}
