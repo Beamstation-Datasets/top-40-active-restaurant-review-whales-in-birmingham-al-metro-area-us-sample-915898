@@ -1,6 +1,6 @@
 # Top 40% Active Restaurant Review Whales in Birmingham, AL Metro Area, US
 
-> Free BeamStation sample export with 13 rows and masked direct-contact fields.
+> Free BeamStation sample export with 83 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `915898` |
 | Location | Birmingham, AL |
 | Category | Restaurants |
-| Full dataset size | 132 records |
-| Free sample size | 13 records (9.85%) |
-| Last export | 2026-04-22T06:19:55.998357+00:00 |
+| Full dataset size | 830 records |
+| Free sample size | 83 records (10.0%) |
+| Last export | 2026-04-29T08:28:14.743537+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-40-active-restaurant-review-whales-in-birmingham-al-metro-area-us-sample-915898/releases/download/sample-latest/beamstation_915898_restaurants-us-birminghamal_SAMPLE_DIST.csv) |
 
 ## What is in this sample
